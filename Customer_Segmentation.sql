@@ -1,4 +1,4 @@
--- Link for the database: postgres://Test:bQNxVzJL4g6u@ep-noisy-flower-846766-pooler.us-east-2.aws.neon.tech/Metrocar
+-- Link for the database: postgres://Test:bQNxVzJL4g6u@ep-noisy-flower-846766.us-east-2.aws.neon.tech/TravelTide
 
 -- Creation of the cohort, considering the dates we want and one line per user
 WITH table_distance
